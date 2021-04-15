@@ -1,8 +1,0 @@
-E:\Papka\git\PIE-18_Alekseeva_Lab_2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
-E:\Papka\git\PIE-18_Alekseeva_Lab_2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
-E:\Papka\git\PIE-18_Alekseeva_Lab_2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
-E:\Papka\git\PIE-18_Alekseeva_Lab_2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
-E:\Papka\git\PIE-18_Alekseeva_Lab_2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
-E:\Papka\git\PIE-18_Alekseeva_Lab_2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
-E:\Papka\git\PIE-18_Alekseeva_Lab_2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
-E:\Papka\git\PIE-18_Alekseeva_Lab_2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
